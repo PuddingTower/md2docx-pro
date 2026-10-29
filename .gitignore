@@ -21,3 +21,6 @@ Thumbs.db
 .idea/
 .vscode/
 *.log
+
+# Local-only domain sample (not published)
+tests/test_sample.airfoil.md
